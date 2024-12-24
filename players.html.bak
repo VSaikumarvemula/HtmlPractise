@@ -1,0 +1,41 @@
+<html>
+<head>
+</head>
+<body>
+<table border="1" cellspacing="1">
+<thead>
+         <tr>
+		 <th>ID</th>
+		 <th>player Name</th>
+		 <th>score</th>
+		 	 <th>location</th>
+			 	 <th>image</th>
+         </tr>
+</thead>
+<tbody>
+      <tr>
+	  <td> 7</td>
+	  <td> Ms Dhoni</td>
+	  <td> thala for a reson</td>
+	  <td> Jarkhand</td>
+	  <td> <abbr title="click here to know more about Dhoni"> <a href="https://en.wikipedia.org/wiki/MS_Dhoni"><img src="C:\Users\vemul\OneDrive\Desktop\html programs\download.jpeg"  width="50px" height="50px"> </abbr></td>
+	  </tr>
+	  <tr>
+	  <td>45</td>
+	    <td>rohith sharma</td>
+		  <td>264</td>
+		    <td>Maha rastra</td>
+			<td>  <abbr title="click here to know more about rohith sharma"><a href="https://en.wikipedia.org/wiki/Rohit_Sharma"><img src="C:\Users\vemul\OneDrive\Desktop\html programs\rohith.jpeg"  width="50px" height="50px"></abbr></td>
+	  </tr>
+
+	  <tr>
+	  <td>18</td>
+	    <td>Virat kohli</td>
+		  <td>183</td>
+		    <td>Delhi</td>
+			<td>  <abbr title="click here to know more about virat" ><a href="https://en.wikipedia.org/wiki/Virat_Kohli" target="#"><img src="C:\Users\vemul\OneDrive\Desktop\html programs\kohli.jpeg"  width="50px" height="50px"></abbr></td>
+	  </tr>
+<tbody>
+</table>
+</body>
+</html>

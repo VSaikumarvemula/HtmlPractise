@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ 
+  <title>Book application form...</title>
+ </head>
+ <body>
+ <h1>Book Application </h1>
+ <form>
+ <label>Enter book ISBN:</label>
+ <input type='number' id="isbn" name="isbn" value="1001" required disabled>
+ <br>
+ <br>
+  <label>Enter Book name:</label>
+  <input type='text' id="name" name="name"  required >
+ <br>
+ <br>
+   <label>Enter book author:</label>
+   <input type='text' id="author" name="author" value="Ratan sir" required disabled>
+ <br>
+ <br>
+    <label>Enter book price:</label>
+	<input type='number' id="price" name="price"  required  value="100" step="50">   <!-- to increse the number by 50 -->
+ <br>
+ <br>
+	 <label>Enter book quantity:</label>
+	 <input type='number' id="qty" name="qty"  required min="2" max="5"  >
+ <br>
+ <br>
+	 <input type="submit" value='submit'>
+ </form>
+  
+ </body>
+</html>
